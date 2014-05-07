@@ -1,0 +1,13 @@
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\GeneratedGeometry-Rotacao\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\Content\obj\x86\Debug\GeneratedGeometryContent.contentprojResolveAssemblyReference.cache

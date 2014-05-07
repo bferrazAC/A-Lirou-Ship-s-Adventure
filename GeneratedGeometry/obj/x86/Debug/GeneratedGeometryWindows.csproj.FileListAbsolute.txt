@@ -1,0 +1,162 @@
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+F:\Pendrive\CEFET\6AINFO\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Grupo de Pesquisa\Documents\THE 3D SAGA\Really 3D\COBJECT\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\heightmap3.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest_0.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain2.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\heightmap3.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain2.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest_0.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Dropbox\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\heightmap3.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain2.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest_0.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\Terrain\heightmap3.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain2.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\Terrain\rocks_0.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Cristina\Desktop\CEFET-UFRJ\The-3d-Saga-master\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Desktop\GeneratedGeometry-Rotacao\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Desktop\GeneratedGeometry-Rotacao\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\sky.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\heightmap3.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\terrain2.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Terrain\florest_0.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometryWindows.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Models\ring.xnb

@@ -1,0 +1,35 @@
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\windows7\Documents\CEFET\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.csprojResolveAssemblyReference.cache
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\LPCA\Desktop\3D Saga\Trash\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\windows7\Documents\CEFET\3D Saga\The Merge\Geometry Samples\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\Jonny\Programming\The 3d Saga\Teste Versions\The Merge\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.pdb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.dll
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.pdb
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.csprojResolveAssemblyReference.cache
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.dll
+G:\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\THE 3D SAGA\Really 3D\COBJECT (collision wont work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.dll
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometryPipeline\bin\x86\Debug\GeneratedGeometryPipeline.pdb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometryPipeline\obj\x86\Debug\GeneratedGeometryPipeline.pdb
