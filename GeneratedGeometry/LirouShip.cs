@@ -85,6 +85,7 @@ namespace Ship
             this.modelMatrix *= Matrix.CreateRotationY(rotation.Y);
             this.modelMatrix *= Matrix.CreateRotationZ(rotation.Z);
             this.modelMatrix *= Matrix.CreateTranslation(m_position);
+            
 
         }
 
@@ -124,12 +125,12 @@ namespace Ship
             
             #region InputHandling
             // Move para esquerda
-        
+            float rotSpeed = (rotatingSpeed * moveSpeed) / 15;
             if (kb.IsKeyDown(Keys.A))
             {
                 // é preciso salvar a posicao(translation) em que a nave se enconta, se nao o comando abaixo modifica a posicao tbm. Depois de rotacionar a nave a posicao eh novamente inserida na matriz
                 position = modelMatrix.Translation;
-                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Up), rotatingSpeed * (moveSpeed/8));
+                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Up), rotSpeed);
                 modelMatrix.Translation = position;
             }
 
@@ -138,7 +139,7 @@ namespace Ship
             {
                 // é preciso salvar a posicao(translation) em que a nave se enconta, se nao o comando abaixo modifica a posicao tbm. Depois de rotacionar a nave a posicao eh novamente inserida na matriz
                 position = modelMatrix.Translation;
-                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Up), -(rotatingSpeed * (moveSpeed/8)));
+                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Up), -rotSpeed);
                 modelMatrix.Translation = position;
             }
 
@@ -147,7 +148,7 @@ namespace Ship
             {
                 // é preciso salvar a posicao(translation) em que a nave se enconta, se nao o comando abaixo modifica a posicao tbm. Depois de rotacionar a nave a posicao eh novamente inserida na matriz
                 position = modelMatrix.Translation;
-                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Right), -(rotatingSpeed * (moveSpeed / 8)));
+                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Right), -rotSpeed);
                 modelMatrix.Translation = position;
             }
 
@@ -156,7 +157,7 @@ namespace Ship
             {
                 // é preciso salvar a posicao(translation) em que a nave se enconta, se nao o comando abaixo modifica a posicao tbm. Depois de rotacionar a nave a posicao eh novamente inserida na matriz
                 position = modelMatrix.Translation;
-                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Right), rotatingSpeed * (moveSpeed / 8));
+                modelMatrix *= Matrix.CreateFromAxisAngle(Vector3.Normalize(modelMatrix.Right), rotSpeed);
                 modelMatrix.Translation = position;
             }
             
@@ -223,7 +224,8 @@ namespace Ship
             // Translation é o campo que indica a posicao da nave no 'world', deem uma olhada em matrizes rotacionais que cvs entendem, eu nao sei explicar bem. 
         if( (Position.Y/terrainScale) <= (heightCollision))
         {
-            moveSpeed *= (float)-1;
+            
+            moveSpeed*= -1;
             //velocity = modelMatrix.Backward * 1 * 500.0f;
 
         }
@@ -235,9 +237,6 @@ namespace Ship
 
             #region Collisions
 
-            //TerrainInfo terrainInfo = new TerrainInfo;
-            
-            
 
             foreach (CObject cobject in cobjects)
             {
@@ -245,11 +244,11 @@ namespace Ship
                 
                 if (isCollidingBS(cobject.Model) && cobject != (CObject)this)
                 {
+                    Console.WriteLine("READY TO GO");
                     //Console.WriteLine("READY TO GO");
                     //Console.WriteLine("READY TO GO");
                     //Console.WriteLine("READY TO GO");
-                    //Console.WriteLine("READY TO GO");
-                   // moveSpeed *= -1;
+                    //moveSpeed = 0;
                 }
             }
             #endregion
@@ -257,7 +256,7 @@ namespace Ship
 
         public void LoadContent(ContentManager Content)
         {
-            model = Content.Load<Model>("Models\\p1_wedge");            
+            model = Content.Load<Model>(@"Models\\p1_wedge");            
         }
 
         public void Draw(float aspectRatio, Matrix view)

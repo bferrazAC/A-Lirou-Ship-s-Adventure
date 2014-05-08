@@ -63,8 +63,8 @@ namespace GeneratedGeometry
             aspectRatio = (float)graphics.PreferredBackBufferWidth / (float)graphics.PreferredBackBufferHeight;
             Content.RootDirectory = "Content";
 
-            ship = new Ship.LirouShip(new Vector3(0, 50 , 0), new Vector3(0, 0, 0), 1.0f, (float)(Math.PI / 50), 0.002f);
-            ring = new Ship.Ring(new Vector3(30, 0, 30), (float)(Math.PI / 50), 0.08f);
+            ship = new Ship.LirouShip(new Vector3(500, 50 , 0), new Vector3(0, 0, 0), 1.0f, (float)(Math.PI / 50), 0.002f);
+            ring = new Ship.Ring(new Vector3(0, 0, 0), new Vector3(0, 0, (float)(Math.PI/2)), (float)(Math.PI / 50), 30.0f);
             camera = new Ship.Camera(25, ship.Position);
             
 
@@ -91,17 +91,17 @@ namespace GeneratedGeometry
             terrain.Model = Content.Load<Model>("Terrain/terrain");
             terrainInfo = terrain.Model.Tag as Ship.TerrainInfo;
             if (terrainInfo == null)
-            // Avisar caso não seja associado a Tag ao modelo
+            // Avisar caso não o objeto Tag não seja associado ao modelo
             {
-                string message = "The terrain model did not have a TerrainInfo " +
-                    "object attached. Are you sure you are using the " +
-                    "TerrainProcessor?";
+                string message = "O modelo do Terreno não um tem TerrainInfo " +
+                    "associado. Verifique se está usando " +
+                    "TerrainProcessor";
                 throw new InvalidOperationException(message);
             }
             sky = Content.Load<Sky>("sky");
             ship.LoadContent(this.Content);
-            //ring.LoadContent(this.Content);
-            ring.Model = Content.Load<Model>(@"Models\\ring");
+            ring.LoadContent(this.Content);
+            
         }
 
         
@@ -120,7 +120,6 @@ namespace GeneratedGeometry
 
             HandleInput();
             collisionTerrain(ks);
-            //ship.Update(getHeight,ks, camera, collidableObjects);
             camera.Update(Mouse.GetState(), gameTime, ship.Position, ship.Rotation, graphics);
             ring.Animate();
 

@@ -20,7 +20,6 @@ namespace Ship
         #region Fields
 
         float rotatingSpeed;
-
         Matrix modelMatrix;
 
         #region Get/Set
@@ -55,12 +54,19 @@ namespace Ship
 
         #region Constructors
 
-        public Ring(Vector3 m_position, float rotatingSpeed, float scale)
+        public Ring(Vector3 m_position, Vector3 rotation, float rotatingSpeed, float scale)
         {
+            this.position = m_position;
             this.rotatingSpeed = rotatingSpeed;
+            this.rotation = rotation;
+            this.scale = scale;
+
             this.modelMatrix = Matrix.Identity;
-            this.modelMatrix = Matrix.CreateScale(scale);
-            this.modelMatrix.Translation = m_position;
+            this.modelMatrix *= Matrix.CreateScale(scale);
+            this.modelMatrix *= Matrix.CreateRotationX(rotation.X);
+            this.modelMatrix *= Matrix.CreateRotationY(rotation.Y);
+            this.modelMatrix *= Matrix.CreateRotationZ(rotation.Z);
+            this.modelMatrix *= Matrix.CreateTranslation(m_position);
         }
 
         #endregion
@@ -77,17 +83,23 @@ namespace Ship
             }
             else
             {
-                modelMatrix = Matrix.CreateRotationY(rotatingSpeed);
+                modelMatrix *= Matrix.CreateRotationY(rotatingSpeed);
             }
         }
 
         #endregion
 
+        public int GetPoint()
+        {
+            int point = 50;
+            return point;
+        }
+
         #region ContentLoad/Drawing
 
         public void LoadContent(ContentManager Content)
         {
-            model = Content.Load<Model>(" Content\\Models\\ring.fbx ");
+            model = Content.Load<Model>(@"Models\\ring");
         }
 
         public void Draw(Matrix view, Matrix projection, float aspectRatio)
@@ -100,7 +112,7 @@ namespace Ship
                     model.CopyAbsoluteBoneTransformsTo(transforms);
 
                     effect.EnableDefaultLighting();
-                    effect.World = transforms[mesh.ParentBone.Index] * modelMatrix;
+                    effect.World = transforms[mesh.ParentBone.Index] * modelMatrix ;
                     effect.View = view;
                     effect.Projection = Matrix.CreatePerspectiveFieldOfView(
                         MathHelper.ToRadians(45.0f), aspectRatio,
