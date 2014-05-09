@@ -8,3 +8,5 @@ Content\Models\p1_wedge.xnb
 Content\Models\ring.xnb
 Content\Terrain\florest_0.xnb
 Content\textures\wedge_p1_diff_v1_0.xnb
+Content\Models\ring2.xnb
+Content\Models\cube.xnb

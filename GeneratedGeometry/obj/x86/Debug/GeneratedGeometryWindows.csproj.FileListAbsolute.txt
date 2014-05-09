@@ -160,3 +160,5 @@ C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\obj\x86\D
 C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.exe
 C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\obj\x86\Debug\GeneratedGeometry.pdb
 C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Models\ring.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Models\ring2.xnb
+C:\Users\Bruno\Desktop\COBJECT (collision will work)\GeneratedGeometry\bin\x86\Debug\Content\Models\cube.xnb
