@@ -63,9 +63,9 @@ namespace GeneratedGeometry
             aspectRatio = (float)graphics.PreferredBackBufferWidth / (float)graphics.PreferredBackBufferHeight;
             Content.RootDirectory = "Content";
 
-            ship = new Ship.LirouShip(new Vector3(0, 0 , 500), new Vector3(0, 0, 0), 1.0f, (float)(Math.PI / 75), 0.002f);
-            ring = new Ship.Ring(new Vector3(0, 0, 0), new Vector3(0, 0, (float)(Math.PI/2)), (float)(Math.PI / 50), 0.05f);
-            camera = new Ship.Camera(35, ship.Position);
+            ship = new Ship.LirouShip(new Vector3(500, 50 , 0), new Vector3(0, 0, 0), 1.0f, (float)(Math.PI / 50), 0.002f);
+            ring = new Ship.Ring(new Vector3(0, 0, 0), new Vector3(0, 0, (float)(Math.PI/2)), (float)(Math.PI / 50), 30.0f);
+            camera = new Ship.Camera(25, ship.Position);
             
 
             collidableObjects = new List<Ship.CObject>();
@@ -113,7 +113,6 @@ namespace GeneratedGeometry
         /// <summary>
         /// Allows the game to run logic.
         /// </summary>
-        int points;
         protected override void Update(GameTime gameTime)
         {
             
@@ -122,61 +121,28 @@ namespace GeneratedGeometry
             HandleInput();
             collisionTerrain(ks);
             camera.Update(Mouse.GetState(), gameTime, ship.Position, ship.Rotation, graphics);
-            isColliding();
             ring.Animate();
 
             base.Update(gameTime);
         }
 
-        #region Collision's Methods
-
         Vector3 position;
         float getHeight;
-        bool isColl = false;
-
         public void collisionTerrain(KeyboardState ks)
         {
             position = ship.Position;
-            float terrainScale = terrainInfo.TerrainScale();
-            ship.Update(getHeight, terrainScale, ks, camera, collidableObjects);
-            if (terrainInfo.IsOnHeightmap(position))
+            if(terrainInfo.IsOnHeightmap(position))
             {
                 getHeight = terrainInfo.GetHeight(position);
+                float terrainScale = terrainInfo.TerrainScale();
+                ship.Update(getHeight, terrainScale, ks, camera, collidableObjects);
             }
-            else
-            {
-                ship.restartPos();
-                Console.WriteLine("Yooo");
-            }
-            
             if (ks.IsKeyDown(Keys.RightShift))
             {
                 Debug.WriteLine("" + position.Y/100 + getHeight );
                 Debug.Indent();
             }
         }
-        
-        public bool isColliding()
-        {
-            
-            Matrix worldship = Matrix.CreateTranslation(ship.Position);
-            Matrix worldring = Matrix.CreateTranslation(ring.Position);
-
-            if (ship.getCollision(collidableObjects, worldship, worldring))
-            {
-                if (!isColl)
-                {
-                    points += ring.GetPoint();
-                    isColl = true;
-                    Console.WriteLine("     " + points );
-                }
-            }
-            else
-                isColl = false;
-
-            return isColl;
-        }
-        #endregion
 
         /// <summary>
         /// This is called when the game should draw itself.

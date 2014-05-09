@@ -28,8 +28,7 @@ namespace Ship
         {
             get
             {
-                Vector3 pos = modelMatrix.Translation;
-                return pos;
+                return modelMatrix.Translation;
             }
             set
             {
@@ -63,12 +62,11 @@ namespace Ship
             this.scale = scale;
 
             this.modelMatrix = Matrix.Identity;
-            this.modelMatrix *= Matrix.CreateTranslation(m_position);
             this.modelMatrix *= Matrix.CreateScale(scale);
             this.modelMatrix *= Matrix.CreateRotationX(rotation.X);
             this.modelMatrix *= Matrix.CreateRotationY(rotation.Y);
             this.modelMatrix *= Matrix.CreateRotationZ(rotation.Z);
-            
+            this.modelMatrix *= Matrix.CreateTranslation(m_position);
         }
 
         #endregion
@@ -86,8 +84,6 @@ namespace Ship
             else
             {
                 modelMatrix *= Matrix.CreateRotationY(rotatingSpeed);
-                modelMatrix *= Matrix.CreateRotationX(rotatingSpeed);
-                modelMatrix *= Matrix.CreateRotationZ(rotatingSpeed);
             }
         }
 
@@ -103,7 +99,7 @@ namespace Ship
 
         public void LoadContent(ContentManager Content)
         {
-            model = Content.Load<Model>(@"Models\\p1_wedge");
+            model = Content.Load<Model>(@"Models\\ring");
         }
 
         public void Draw(Matrix view, Matrix projection, float aspectRatio)

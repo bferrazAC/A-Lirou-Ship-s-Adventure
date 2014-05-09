@@ -39,7 +39,7 @@ namespace Ship
                 modelMatrix.Translation = value;
             }
         }
-        
+
         public float MoveSpeed
         {
             get
@@ -222,62 +222,37 @@ namespace Ship
         
             // Aqui a nova posicao que foi criada para a nave e que esta armazenada em 'velocity' é inserida na matriz, mudando a posicao da nave
             // Translation é o campo que indica a posicao da nave no 'world', deem uma olhada em matrizes rotacionais que cvs entendem, eu nao sei explicar bem. 
-        if( (Position.Y/terrainScale) <= (heightCollision * 0.99f))
+        if( (Position.Y/terrainScale) <= (heightCollision))
         {
             
             moveSpeed*= -1;
             //velocity = modelMatrix.Backward * 1 * 500.0f;
 
         }
-        
-            velocity = modelMatrix.Forward * moveSpeed * 500.0f;
-            modelMatrix *= Matrix.CreateTranslation(velocity);
-        }
-
-        public void restartPos()
-        {
-            position = new Vector3(1000, 0, 0);
-            moveSpeed = 0; 
-            this.modelMatrix = Matrix.Identity;
-            this.modelMatrix *= Matrix.CreateScale(scale);
-            this.modelMatrix *= Matrix.CreateRotationX(rotation.X);
-            this.modelMatrix *= Matrix.CreateRotationY(rotation.Y);
-            this.modelMatrix *= Matrix.CreateRotationZ(rotation.Z);
-            this.modelMatrix *= Matrix.CreateTranslation(position);
-        }
+        velocity = modelMatrix.Forward * moveSpeed * 500.0f;
+        modelMatrix *= Matrix.CreateTranslation(velocity);
+            
 
             #endregion            
 
             #region Collisions
 
-            public bool getCollision(List<CObject> cobjects, Matrix w1, Matrix w2)
+
+            foreach (CObject cobject in cobjects)
             {
-                foreach (CObject cobject in cobjects)
+                /* ====////==/==///HEEEEEEEEEEEEEEEEEEEEEEEEERE===////===/// */
+                
+                if (isCollidingBS(cobject.Model) && cobject != (CObject)this)
                 {
-                    /* ====////==/==///HEEEEEEEEEEEEEEEEEEEEEEEEERE===////===/// */
-                    //Console.WriteLine("PASSOU AQUI"+cobject+this);
-                    
-                    CObject m2 = cobject;
-                    CObject m1 = this;
-                    if (isCollidingBS(ref m1, w1, ref m2, w2) &&  cobject != (CObject)this)
-                    {
-                        //Console.WriteLine("PASSOU AQUI" + cobject + this);
-                        //Console.WriteLine(" "+m1.Position+"  "+m2.Position);
-                        //Console.WriteLine("READY TO GO ");
-                        //Console.WriteLine("READY TO GO");
-                        //Console.WriteLine("READY TO GO");
-                        moveSpeed *= -1;
-                        velocity = modelMatrix.Forward * moveSpeed * 500.0f;
-                        modelMatrix *= Matrix.CreateTranslation(velocity);
-                        return true;
-                    }
+                    Console.WriteLine("READY TO GO");
+                    //Console.WriteLine("READY TO GO");
+                    //Console.WriteLine("READY TO GO");
+                    //Console.WriteLine("READY TO GO");
+                    //moveSpeed = 0;
                 }
-                return false;
             }
             #endregion
-
-            
-        
+        }
 
         public void LoadContent(ContentManager Content)
         {

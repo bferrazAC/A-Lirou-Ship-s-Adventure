@@ -122,33 +122,6 @@ namespace Ship
             }
             return false;
         }
-        protected bool isCollidingBS(ref CObject m1, Matrix w1, ref CObject m2, Matrix w2)
-        {
-            float s = m2.scale/m1.scale;
-            for (int i = 0; i < m1.model.Meshes.Count; i++)
-            {
-                BoundingSphere m1BoundingSphere = m1.model.Meshes[i].BoundingSphere;
-                //m1BoundingSphere.Center = m1.position;
-                m1BoundingSphere.Radius = s;
-                m1BoundingSphere = m1BoundingSphere.Transform(w1);
-                for (int j = 0; j < m2.model.Meshes.Count; j++)
-                {
-                    BoundingSphere m2BoundingSphere = m2.model.Meshes[j].BoundingSphere;
-                    //m2BoundingSphere.Center = m2.position;
-                    m2BoundingSphere.Radius = s;
-                    m2BoundingSphere = m2BoundingSphere.Transform(w2);
-                    if (m1BoundingSphere.Intersects(m2BoundingSphere))
-                    {
-                        //Console.WriteLine("" + m1 + "" + m2);
-                        return true;
-                    }
-                }
-            }
-            return false;
-        }
-        #endregion
-
-        /*
         protected bool isCollidingBS(Model model2)
         {
             foreach (ModelMesh mesh in model.Meshes)
@@ -163,8 +136,7 @@ namespace Ship
             }
             return false;
         }
-
-        */
+        #endregion
 
         #region Drawing
         public void Draw(Matrix view, Matrix projection)
